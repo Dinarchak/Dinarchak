@@ -31,7 +31,7 @@ I am in my third year of Bachelor's degree at St. Petersburg State University.
 [↗️](https://t.me/FazikkD) Telegram |
 ✉️ Email  jjustdinar@yandex.ru
 
-## &#x1f4c8; GitHub Stats
+### GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/Dinarchak/Dinarchak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinarchak&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
