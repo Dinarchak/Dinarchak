@@ -27,17 +27,6 @@ I am in my third year of Bachelor's degree at St. Petersburg State University.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
-### Pet projects ✨
-<a href="https://github.com/Dinarchak/Virtual-Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dinarchak&repo=virtual-assistant&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Dinarchak/TelegramMessagesBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinarchak&repo=TelegramMessagesBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Dinarchak/derzn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dinarchak&repo=derzn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ### If you want to contact me 🗨️
 [↗️](https://t.me/FazikkD) Telegram |
 ✉️ Email  jjustdinar@yandex.ru
