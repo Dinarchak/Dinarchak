@@ -28,7 +28,7 @@ I am in my third year of Bachelor's degree at St. Petersburg State University.
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 ### If you want to contact me 🗨️
-[↗️](https://t.me/FazikkD) Telegram |
+[↗️ Telegram](https://t.me/FazikkD) |
 ✉️ Email  jjustdinar@yandex.ru
 
 ### GitHub Stats &#x1f4c8;
