@@ -29,8 +29,8 @@ I am in my third year of Bachelor's degree at St. Petersburg State University.
 
 ### If you want to contact me 🗨️
 
-[↗️ Telegram](https://t.me/FazikkD) |
-✉️ Email  jjustdinar@yandex.ru
+[![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](http://t.me/the_gruslan)
+[![Email](https://img.shields.io/badge/email-262424?style=for-the-badge)](mailto:jjustdinar@yandex.ru)
 
 ### GitHub Stats &#x1f4c8;
 
